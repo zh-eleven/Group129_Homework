@@ -24,6 +24,8 @@
 
 项目完成情况：完成所有项目  
 
+(由于创建文件夹时对命名的疏忽，文件夹显示顺序稍有错乱)
+
 ## 项目运行结果简介
 ### project01_implement the naïve birthday attack of reduced SM3
 完成情况：
@@ -141,3 +143,5 @@
 - 介绍Patricia Tree
 - 介绍Merke Tree
 - 介绍以太坊中的MPT
+
+简介报告结束，具体内容在请查看对应文件夹。
